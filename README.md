@@ -1,5 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [System Design Interview Question: Design URL Shortener](https://app.daily.dev/posts/npFLElqw9?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [Deploy Your Node.js App in Minutes: Public IP + Nginx on Ubuntu ⚡](https://app.daily.dev/posts/Tbgy72oOZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [Top 50 System Design Interview Questions for 2024](https://app.daily.dev/posts/EZsdEmZyv?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [Understanding CI/CD Pipelines: A Crucial Skill for Every Software Engineer🔥](https://app.daily.dev/posts/k59rmzLvd?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [The 2024 Software Architect or Solution Architect RoadMap](https://app.daily.dev/posts/cpMRpVsH3?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
