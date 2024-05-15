@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [Become an awesome Software Architect with these books](https://app.daily.dev/posts/2dTZQVq91?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Essential VS Code Extensions for Front-End Development in 2024](https://app.daily.dev/posts/RiVDmjKrM?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [SOLID - The Simple Way To Understand](https://app.daily.dev/posts/cjQU7biNT?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [16 Websites for Design Inspiration in 2024](https://app.daily.dev/posts/m6EZ7Vx9t?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [docsify - A magical documentation site generator](https://app.daily.dev/posts/6ZD4yJRFb?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [System Design Interview Question: Design URL Shortener](https://app.daily.dev/posts/npFLElqw9?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
