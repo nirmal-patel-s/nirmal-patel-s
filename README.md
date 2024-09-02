@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [Message Queues in System Design](https://app.daily.dev/posts/2P8UrIIVz?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [The only framework that makes responsive email easy](https://app.daily.dev/posts/p4hA9LLql?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Learn RAG Fundamentals and Advanced Techniques](https://app.daily.dev/posts/lVvdZRtM3?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [How to Implement Message Queues in Your Backend Applications](https://app.daily.dev/posts/tYgvIAe3v?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [I Built an Event Scheduler in NodeJs using Google Calendar API 🚀](https://app.daily.dev/posts/IsKHc6M3d?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Practial Domain Driven Design](https://app.daily.dev/posts/X5WlblPkV?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
