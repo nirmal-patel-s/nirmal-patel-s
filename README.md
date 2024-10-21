@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [Atomic Repositories in Clean Architecture and TypeScript](https://app.daily.dev/posts/AVe3Dg9mi?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Must Have VSCode Extension For TypeScript Devs](https://app.daily.dev/posts/7qv38FJHr?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [&lpar;comic&rpar; Common Salary Negotiation Mistakes](https://app.daily.dev/posts/pDWUTRvbu?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Generate PDFs dynamically in NodeJs/NestJs](https://app.daily.dev/posts/GlAWeySeq?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://app.daily.dev/posts/ft1RDcTzr?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Node.js performance hooks and measurement APIs](https://app.daily.dev/posts/MYJyK7hso?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
