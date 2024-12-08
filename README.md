@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/W5Q3fvNLA?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://app.daily.dev/posts/z77rRzqk7?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [No title](https://app.daily.dev/posts/SKQ9K3Kxu?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [🚀 You only need these 𝟒𝟎 𝐑𝐞𝐚𝐜𝐭 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 to clear any interview! 💼](https://app.daily.dev/posts/tD9G0VZ3C?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://app.daily.dev/posts/pkoOMd7t1?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Best Practices for Storing Access Tokens in the Browser](https://app.daily.dev/posts/y0W9fRdpk?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Must check this microservices patterns.](https://app.daily.dev/posts/oiuIiZ7g6?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Build a Real-Time WebSocket Application](https://app.daily.dev/posts/voOaHbzgg?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Understanding Concurrency, Parallelism and JS](https://app.daily.dev/posts/ZhZsZwbjF?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
