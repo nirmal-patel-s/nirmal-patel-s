@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [Secure JWT Storage: Best Practices](https://app.daily.dev/posts/UliR4q17D?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [A curated list of awesome resources: books, videos, articles about using Next.js](https://app.daily.dev/posts/kXVWcO9Z3?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Bringing HTTP Caching to Node.js](https://app.daily.dev/posts/50pzUjkMC?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://app.daily.dev/posts/W5Q3fvNLA?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://app.daily.dev/posts/z77rRzqk7?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [No title](https://app.daily.dev/posts/SKQ9K3Kxu?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
