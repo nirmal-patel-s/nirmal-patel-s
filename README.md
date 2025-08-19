@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/sHLDC8pdi?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Reimagining Investment Portfolio Management with Agentic AI](https://app.daily.dev/posts/Y9PRxrxLT?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [How Microfrontends Work: From iframes to Module Federation](https://app.daily.dev/posts/vejBn71FP?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://app.daily.dev/posts/GU5fnnLoj?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Master Docker and VS Code: Supercharge Your Dev Workflow](https://app.daily.dev/posts/JzU67367F?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Event-Driven Architecture: How Enterprises Manage Billions of Events](https://app.daily.dev/posts/RZyfuZspB?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
