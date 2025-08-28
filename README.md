@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [LangChain Explained: The Ultimate Framework for Building LLM Applications](https://app.daily.dev/posts/BEdo1AC6K?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT &amp; SSO](https://app.daily.dev/posts/aIevBOyLN?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://app.daily.dev/posts/v2LKzrjBp?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://app.daily.dev/posts/5wgLvLuYX?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [12 MCP, RAG, and Agents Cheat Sheets for AI Engineers](https://app.daily.dev/posts/VyzWcONxf?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Why I work on side projects](https://app.daily.dev/posts/s6rAy4Esx?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [No title](https://app.daily.dev/posts/sHLDC8pdi?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
