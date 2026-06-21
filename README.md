@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/u7mlQEjrA?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Learn fundamentals, not frameworks](https://app.daily.dev/posts/nLqAJGqtR?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [You&#39;re Not Paid to Write Code](https://app.daily.dev/posts/V90BEtMZY?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [The 10 Skills I Was Missing as a MongoDB User](https://app.daily.dev/posts/hM0pX0Wth?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [No title](https://app.daily.dev/posts/oCMUEt63T?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [No title](https://daily.dev/posts/u7mlQEjrA?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [Learn fundamentals, not frameworks](https://daily.dev/posts/nLqAJGqtR?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [You&#39;re Not Paid to Write Code](https://daily.dev/posts/V90BEtMZY?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [The 10 Skills I Was Missing as a MongoDB User](https://daily.dev/posts/hM0pX0Wth?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
+- [No title](https://daily.dev/posts/oCMUEt63T?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
